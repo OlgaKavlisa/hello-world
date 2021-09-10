@@ -1,2 +1,2 @@
 # hello-world
-šeot jābūt aprakstam :)
+šeit jābūt aprakstam :)
